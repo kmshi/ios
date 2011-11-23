@@ -1,0 +1,13 @@
+<XML>
+<CONFIG appname="mobius.app" title="app" type="APP" pkgname="PRODUCTION" release="3.4.0" revision="4">
+<BUNDLE base="https://am-xdk.s3.amazonaws.com/app.1b2af386-aa46-4644-a458-aa6b0dae47a7/523d90c7-40a9-461d-98e3-330c187e8baa/PRODUCTION" file="bundle.zip" version="1" />
+<JAVASCRIPT platform="iphone" version="3.4.0" url="http://assets.edge.flycast.fm/appmobi/javascript/iPhone/3.4.0/appmobi_iphone.js" />
+<JAVASCRIPT platform="android" version="3.4.0" url="http://assets.edge.flycast.fm/appmobi/javascript/Android/3.4.0/appmobi_android.js" />
+<JAVASCRIPT platform="blackberry" version="3.4.0" url="" />
+<SECURITY hasCaching="1" hasStreaming="1" hasAnalytics="1" hasPushNotify="1" hasInAppPay="1" hasAdvertising="0" hasLiveUpdate="1" hasOAuth="0" />
+<ANALYTICS id="" server="https://queue.amazonaws.com/668107645782/appmobi_1b2af386-aa46-4644-a458-aa6b0dae47a7" />
+<NOTIFICATIONS server="http://webservices.appmobi.com/pushmobiint.aspx" />
+
+
+</CONFIG>
+</XML>

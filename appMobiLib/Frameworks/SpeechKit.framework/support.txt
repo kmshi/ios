@@ -1,0 +1,261 @@
+What languages are supported for speech to text?
+We support US English, UK English, French, Italian, German, EU Spanish, Chinese Mandarin, and Japanese for speech to text within NMDP. New languages are always being added, so continue to check back here for updates. The table below shows the language codes to use in your application
+Language
+Code
+US English
+en_us
+UK English
+en_gb
+French
+fr_fr
+Italian
+it_it
+German
+de_de
+EU Spanish
+es_es
+Japanese
+ja_jp
+Chinese
+Mandarin
+cn_ma
+ 
+ 
+What languages are supported for text to speech?
+The table below shows the currently support languages. Click below to sample a voice.
+Language
+Code
+Voice
+M/F
+Sample
+Arabic
+ar_WW
+Maged
+Male
+ 
+Australian English
+en_AU
+Karen
+Female
+sample
+Australian English
+en_AU
+Lee
+Male
+sample
+Bahasa Indonesia
+id_ID
+Damayanti
+Female
+ 
+Basque
+eu_ES
+Arantxa
+Female
+ 
+Belgian Dutch
+nl_BE
+Ellen
+Female
+ 
+Brazilian Portuguese
+pt_BR
+Raquel
+Female
+sample
+Canadian French
+fr_CA
+Julie
+Female
+sample
+Canadian French
+fr_CA
+Felix
+Male
+sample
+Cantonese
+zh_HK
+Sin_Ji
+Female
+ 
+Catalan
+ca_ES
+Nuria
+Female
+ 
+Dutch
+nl_NL
+Claire
+Female
+sample
+Dutch
+nl_NL
+Xander
+Male
+sample
+UK English
+en_UK
+Serena
+Female
+sample
+UK English
+en_UK
+Daniel
+Male
+sample
+US English
+en_US
+Samantha
+Female
+sample
+US English
+en_US
+Tom
+Male
+sample
+French
+fr_FR
+Virginie
+Female
+sample
+French
+fr_FR
+Sebastien
+Male
+sample
+French
+fr_FR
+Thomas
+Male
+ 
+German
+de_DE
+Steffi
+Female
+sample
+German
+de_DE
+Yannick
+Male
+sample
+ 
+Language
+Code
+Voice
+M/F
+Sample
+Greek
+el_GR
+Alexandros
+Male
+ 
+Hindi
+hi_IN
+Lekha
+Female
+ 
+Indian English
+en_IN
+Sangeeta
+Female
+sample
+Italian
+it_IT
+Silvia
+Female
+sample
+Italian
+it_IT
+Paolo
+Male
+sample
+Japanese
+jp_JP
+Kyoko
+Female
+ 
+Korean
+ko_KR
+Narae
+Female
+ 
+Mandarin
+zh_CN
+Ting_Ting
+Female
+ 
+Norwegian
+no_NO
+Stine
+Female
+ 
+Polish
+pl_PL
+Agata
+Female
+ 
+Portuguese
+pt_PT
+Joana
+Female
+sample
+Russian
+ru_RU
+Milena
+Female
+ 
+Scottish English
+en_SC
+Fiona
+Female
+ 
+Slovak
+sk_SK
+Laura
+Female
+ 
+South African English
+en_ZA
+Tessa
+Female
+ 
+Spanish Castilian
+es_ES
+Monica
+Female
+sample
+Spanish Castilian
+es_ES
+Diego
+Male
+sample
+Spanish Mexican
+es_MX
+Paulina
+Female
+sample
+Spanish Mexican
+es_MX
+Javier
+Male
+sample
+Swedish
+sv_SE
+Alva
+Female
+ 
+Swedish
+sv_SE
+Oskar
+Male
+ 
+Thai
+th_TH
+Narisa
+Female
+ 
+Turkish
+tr_TR
+Aylin
+Female
+ 

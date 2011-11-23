@@ -1,0 +1,22 @@
+1. download latest phonegap release from http://www.phonegap.com/download (last used: http://phonegap.googlecode.com/files/phonegap-0.9.1.zip)
+2. check README.md in phonegap/phonegap-iphone for instruction on building PhoneGapLib
+	a. for 0.9.1, do 'make' in phonegap/phonegap-iphone/PhoneGapLib; this builds phonegap/phonegap-iphone/PhoneGapLib/javascripts/phonegap.js
+3. get phonegap.js from output location, copy into Slimfit project folder
+4. copy all classes from phonegap/phonegap-iphone/PhoneGapLib/Classes into Slimfit (not all are needed, cleanup later)
+	a. PhonegapDelegate, PhoneGapViewController are not used?
+5. in 0.9.1 Sound.m needed to be changed to not refer to www directory which only exists in phonegap
+ TODO: finish fixing Sound to support www from bundle
+ 
+ To do:
+ add phonegap version to plist, update device to read from plist
+ fix sound as above
+ test beep
+ test phonegap
+ 
+ for sound or other similat things in phonegap, should www resources be in mainbundle/www or bundle.zip/www
+ 
+ Android
+ based on phonegap 0.9.1
+ made modified version of droidgap build script called droidgapjs that only builds phonegap.js
+ checked PHONEGAP/framework/res/values/strings.xml for values that need copied over to appMobi strings.xml
+ 
