@@ -4,7 +4,7 @@ For iOS, refer to http://developer.apple.com/xcode/index.php
 For Android, refer to the instructions at http://developer.android.com/sdk/index.html
 You will likely also need Eclipse for Android development from http://www.eclipse.org
 
-The default project contained in the project is just a sample.
+The default application contained in the project (in bundle.zip) is just a sample.
 You can replace it with your own HTML5 based application.
 
 Simply take all of your HTML, CSS, JS and other files and place them in a zip called
@@ -14,6 +14,9 @@ of the appMobi APIs, you can reference the sample applications included in this
 project or download documentation at http://www.appmobi.com
 Place the bundle.zip file in the AppLab directory for iOS or in the AppLab/res/raw
 directory for Android.
+
+iOS development note:
+The project is configured to be opened from /Developer.  Opening it from another location will result in build errors.
 
 Android development note:
 If you have trouble getting the project to compile in Eclipse, you may need to remove
